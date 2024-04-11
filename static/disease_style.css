@@ -1,0 +1,53 @@
+/* disease_style.css */
+
+/* Body styles */
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+}
+
+/* Heading styles */
+h1 {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h3 {
+    color: #007bff;
+}
+
+/* Paragraph styles */
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* List styles */
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+/* Link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .col-md-6 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+}

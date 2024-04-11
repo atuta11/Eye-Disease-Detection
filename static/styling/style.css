@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+  height: 100vh;
+  
+ 
+  background-color: rgb(194, 238, 255);
+}
+
+.caption{
+  margin-left: 17vw;
+  font-weight: 600;
+  padding-bottom: 5px;
+}
+body .row #PredictButton{
+    color: burlywood;
+    background-color: black;
+}
+
+
+
+
+
+
+
